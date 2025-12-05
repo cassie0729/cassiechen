@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Nianlin (Cassie) Chen  
 
 🎓 *Biostatistics · Statistical Programmer*  
-📍 Based in the U.S. | Bayesian Inference · High-Dimensional Statistics · Clinical Trials
-
----
-
+📚 Student Member, American Statistical Association (ASA)  
+📍 Based in the U.S. | Bayesian Inference · High-Dimensional Statistics · Clinical Trials  
 [🌐 Website](https://cassie0729.github.io/mysite/)
 
 ---
