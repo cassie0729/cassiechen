@@ -5,8 +5,7 @@
 
 ---
 
-## 🌐 Personal Website  
-👉 https://cassie0729.github.io/mysite/
+[🌐 Website](https://cassiechen.github.io/mysite/)
 
 ---
 
@@ -14,13 +13,31 @@
 - Bayesian hierarchical & nonparametric modeling  
 - High-dimensional inference & PCA  
 - Clinical trials & adaptive design  
-- Machine learning & optimization  
+- Machine learning & optimization
+- Statistical genetics
 - Statistical computing (R, Python, SAS)
 
 ---
 
-## 💼 Industry Experience  
-**Biostatistical Programming — EDETEK & TEVA**  
+## 🧠 Selected Projects
+- **Bootstrap CIs for PCA Eigenvalues**  
+  High-dimensional PCA inference using simulation & bootstrap resampling.  
+  *→ Full project:* https://cassiechen.github.io/mysite/projects/bootstrap.html
+
+- **Bayesian Genetic Structure via HMC**  
+  Hamiltonian Monte Carlo for population-structure inference.
+
+- **dPCA Package Development**  
+  Dimensionality reduction for complex high-dimensional biological datasets (R).  
+
+- **Clinical Trial ADaM QC Automation**  
+  Production/validation automation for SDTM → ADaM pipelines.
+
+*See all projects → https://cassiechen.github.io/mysite/projects/*
+
+---
+
+## 💼 Industry Experience  — EDETEK & TEVA
 - SDTM/ADaM mapping  
 - TFL generation  
 - Automated QC pipelines (SAS/R)  
@@ -28,19 +45,13 @@
 
 ---
 
-## 🧪 Selected Projects  
-- **Bootstrap CIs for PCA Eigenvalues** — simulation & methodology  
-- **Bayesian Genetic Structure via HMC**  
-- **dPCA R Package Development**  
-- **ADaM QC Automation Toolkit**  
-
-➡️ *Full details on my website ↑*
-
----
-
 ## 🛠 Tech Stack  
-`R` · `SAS` (Advanced Certified) · `Python` · `PyMC3` · `Stan`  
-`Git` · `SQL` · `MATLAB`  
+💻 **SAS** (Advanced Certified)  
+📐 **R** — tidyverse, ggplot2, rstan  
+🐍 **Python** — pandas, sklearn, PyMC3  
+🗂️ **SQL**  
+🧮 **MATLAB**  
+📄 **Git**, LaTeX, Quarto  
 
 ---
 
@@ -52,6 +63,8 @@
 ---
 
 ## 📫 Contact Me  
-📧 Email: **chennianlin26@163.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/nianlin-chen-90b45a175/
-🐙 GitHub: https://github.com/cassie0729
+📧 **Email:** chennianlin26@163.com  
+🔗 **Website:** https://cassiechen.github.io/mysite/  
+🐙 **GitHub:** https://github.com/cassiechen  
+
+---
